@@ -15,3 +15,5 @@ Ahora estoy editando local para mandarlo al repositorio de GitHub
 Esta nueva linea de texto la puse desde mi laptop Mac :) ks
 
 Estoy probando hacer un pull desde mac
+
+Ahora estoy editando el archivo desde Widnows para practicar xd
