@@ -8,3 +8,6 @@ Agregamos una ultima linea
 Este nuevo cambio es para el branch cabecera.
 
 EStoy editando el texto desde la plataforma de github :)
+
+
+Ahora estoy editando local para mandarlo al repositorio de GitHub
